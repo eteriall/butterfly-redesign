@@ -14,7 +14,7 @@
   "homepage": "https://github.com/paradoxxxzero/butterfly",
   "devDependencies": {
     "coffeelint": "^1.15.7",
-    "grunt": "^1.0.1",
+    "grunt": "^1.5.2",
     "grunt-coffeelint": "0.0.15",
     "grunt-contrib-coffee": "^1.0.0",
     "grunt-contrib-cssmin": "^1.0.1",
